@@ -12,4 +12,8 @@ class Shoe
     @brand
   end
   
+  case :condition
+  when cobble
+    puts 
+  
 end
