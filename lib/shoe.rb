@@ -18,7 +18,6 @@ class Shoe
      :conditon= new
     else puts @conditon
   end
-end
-end
+
   
 end
