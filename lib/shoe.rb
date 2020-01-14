@@ -19,5 +19,6 @@ class Shoe
     else puts @conditon
   end
 end
+end
   
 end
