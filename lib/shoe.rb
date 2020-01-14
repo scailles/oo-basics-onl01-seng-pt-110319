@@ -13,7 +13,10 @@ class Shoe
   end
   
   case :condition
-  when cobble
-    puts 
+    when cobble
+     puts "Your shoe is as good as new!"
+    
+  
+  when 
   
 end
