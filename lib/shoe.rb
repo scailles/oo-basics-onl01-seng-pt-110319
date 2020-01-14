@@ -15,8 +15,7 @@ class Shoe
   case :condition
     when cobble
      puts "Your shoe is as good as new!"
-    
   
-  when 
+    when 
   
 end
