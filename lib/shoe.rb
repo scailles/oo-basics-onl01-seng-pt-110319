@@ -14,11 +14,9 @@ class Shoe
     
   def cobble
     puts "Your shoe is as good as new!"
-    :conditon=new
   end
 end
   
 
 
   
-end
